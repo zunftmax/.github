@@ -31,7 +31,7 @@ Our mark is a **trefoil**: one continuous path, winding twice around a torus and
 <details>
 <summary><b>⊕ Unfold the specimen — rotate it in three dimensions</b></summary>
 
-Drag the model to turn it. Try the wireframe view. There is no correct front.
+Drag the model to turn it. Expand the viewer for the full controls, including wireframe. There is no correct front.
 
 ```stl
 solid zunftmax_trefoil
