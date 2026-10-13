@@ -20,9 +20,9 @@
 \underbrace{\mathsf{Zmax} \;\cdot\; \mathsf{IMBS} \;\cdot\; \mathsf{HALO}}_{\text{different angles. a common edge.}}
 ```
 
-## 01 / Find the seam.
+## 01 / Find the vector.
 
-Pull at the assumption. Follow the weak join. Learn what gives and what holds.
+Challenge the assumption. Follow the weak joins. Learn what gives and what holds.
 
 Every boundary is an invitation to understand the mechanism. Build the tool, test its limits, and leave enough evidence for the next pair of hands.
 
